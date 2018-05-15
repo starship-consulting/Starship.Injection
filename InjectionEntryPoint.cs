@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 using EasyHook;
 using Starship.Core.Extensions;
 using Starship.Core.GPU.OpenGL;
+using Starship.Imaging.Extensions;
 using Starship.Win32.Extensions;
 
 namespace Starship.Injection {
